@@ -1,0 +1,6 @@
+const Routes = {
+  SIGN_UP_SCREEN: 'SIGN_UP_SCREEN',
+  CHOOSE_CATEGORIES_SCREEN: 'CHOOSE_CATEGORIES_SCREEN',
+};
+
+export default Routes;
